@@ -1,4 +1,4 @@
-# Teoria-de-Automatas
+# Teoria De Automatas
 Creacion de gramaticas y lenguajes formales
 
 La teoría de autómatas es una rama de la teoría de la computación que estudia las máquinas abstractas y los problemas que éstas son capaces de resolver. La teoría de autómatas está estrechamente relacionada con la teoría del lenguaje formal ya que los autómatas son clasificados a menudo por la clase de lenguajes formales que son capaces de reconocer. También son de gran utilidad en la teoría de la complejidad computacional.
